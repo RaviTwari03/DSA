@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/RaviTwari03/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
