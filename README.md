@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/RaviTwari03/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/RaviTwari03/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
