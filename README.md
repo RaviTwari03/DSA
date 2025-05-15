@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RaviTwari03/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/RaviTwari03/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/RaviTwari03/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RaviTwari03/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RaviTwari03/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/RaviTwari03/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
