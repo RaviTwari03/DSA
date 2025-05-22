@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RaviTwari03/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/RaviTwari03/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RaviTwari03/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RaviTwari03/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
