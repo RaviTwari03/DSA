@@ -15,3 +15,7 @@ public:
         return maxi;
     }
 };
+
+
+// int maxSubArray(vector<int>& nums) {
+  // int maxi = INT_MIN,prefix=0;    time complexity increases
