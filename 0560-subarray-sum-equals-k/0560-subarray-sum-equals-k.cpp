@@ -1,17 +1,21 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
+        unordered_map<int, int> prefixSumCount;
         int count = 0;
-        int n = nums.size();
+        int prefixSum = 0;
+        prefixSumCount[0] = 1; // Base case for exact subarray sum == k
 
-        for(int start = 0; start < n; ++start) {
-            int sum = 0;
-            for(int end = start; end < n; ++end) {
-                sum += nums[end];
-                if(sum == k) {
-                    count++;
-                }
+        for(int i = 0; i < nums.size(); i++) {
+            prefixSum += nums[i];
+
+            // Check if there is a prefixSum that when removed results in k
+            if(prefixSumCount.find(prefixSum - k) != prefixSumCount.end()) {
+                count += prefixSumCount[prefixSum - k];
             }
+
+            // Update frequency of current prefixSum
+            prefixSumCount[prefixSum]++;
         }
 
         return count;
