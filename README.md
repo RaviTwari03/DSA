@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RaviTwari03/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviTwari03/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaviTwari03/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RaviTwari03/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RaviTwari03/DSA/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RaviTwari03/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RaviTwari03/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RaviTwari03/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
