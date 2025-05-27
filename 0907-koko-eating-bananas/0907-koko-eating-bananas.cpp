@@ -7,13 +7,13 @@ public:
             int mid = (low + high) / 2;
             int hours = 0;
             for (int pile : piles) {
-                hours += (pile + mid - 1) / mid; // same as ceil(pile/mid)
+                hours += (pile + mid - 1) / mid; 
             }
             
             if (hours <= h) {
-                high = mid; // try to eat slower
+                high = mid;  //will eat slower
             } else {
-                low = mid + 1; // need to eat faster
+                low = mid + 1; //fast
             }
         }
         
