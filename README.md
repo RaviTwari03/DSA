@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RaviTwari03/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/RaviTwari03/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RaviTwari03/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/RaviTwari03/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/RaviTwari03/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
