@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaviTwari03/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Interactive
