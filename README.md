@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RaviTwari03/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/RaviTwari03/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -277,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
