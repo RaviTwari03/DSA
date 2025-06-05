@@ -1,21 +1,36 @@
 class Solution {
 public:
-    void backtrack(vector<string>& result, string current, int open, int close, int max) {
-        if (current.length() == max * 2) {
-            result.push_back(current);
+    void parentheses(int n,int left, int right, vector<string>&ans, string & temp){
+
+
+        if(right+left==2*n){
+            ans.push_back(temp);
             return;
         }
 
-        if (open < max)
-            backtrack(result, current + "(", open + 1, close, max);
+        if(left<n){
+            temp.push_back('(');
+            parentheses(n,left+1,right,ans,temp);
+            temp.pop_back();
+        }
+        if(right<left){
+            temp.push_back(')');
+            parentheses(n,left,right+1,ans,temp);
+            temp.pop_back();
+        }
         
-        if (close < open)
-            backtrack(result, current + ")", open, close + 1, max);
     }
 
+
+
+
+
+
+
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        backtrack(result, "", 0, 0, n);
-        return result;
+        vector<string>ans;
+        string temp;
+        parentheses(n,0,0,ans,temp);
+        return ans;
     }
 };
