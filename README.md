@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RaviTwari03/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/RaviTwari03/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
