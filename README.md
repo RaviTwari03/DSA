@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RaviTwari03/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/RaviTwari03/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RaviTwari03/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RaviTwari03/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/RaviTwari03/DSA/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RaviTwari03/DSA/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/RaviTwari03/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
@@ -281,5 +283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/RaviTwari03/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RaviTwari03/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
