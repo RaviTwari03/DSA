@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviTwari03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Trie
 |  |
 | ------- |
