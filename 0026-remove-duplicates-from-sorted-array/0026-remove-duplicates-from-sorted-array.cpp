@@ -3,14 +3,15 @@ public:
     int removeDuplicates(vector<int>& nums) {
         if (nums.empty()) return 0;
 
-        int index = 1; // Position to place the next unique element
+        int k = 1; 
 
         for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1]) {
-                nums[index] = nums[i];
-                index++;
+            if (nums[i] != nums[k - 1]) {
+                nums[k] = nums[i];
+                k++;
             }
         }
-        return index;
+
+        return k;
     }
 };
