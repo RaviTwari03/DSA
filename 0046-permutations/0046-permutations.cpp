@@ -28,11 +28,6 @@ public:
         permut(nums,ans,index+1);
         swap(nums[i],nums[index]);
     }
-    // for (int i = index; i < nums.size(); i++) {
-    //         swap(nums[i], nums[index]);
-    //         permut(nums, ans, index + 1);
-    //         swap(nums[i], nums[index]); // backtrack
-    //     }
     }
 
 
