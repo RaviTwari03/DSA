@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/RaviTwari03/DSA/tree/master/1646-kth-missing-positive-number) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Interactive
 |  |
 | ------- |
