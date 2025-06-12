@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/RaviTwari03/DSA/tree/master/0155-min-stack) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -300,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RaviTwari03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RaviTwari03/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
