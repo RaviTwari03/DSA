@@ -24,21 +24,33 @@ public:
     //     return prev; // New head of the reversed list
     // }
 
-    vector<int>ans;
-    ListNode* temp = head;
-    while(temp!=NULL){
-        ans.push_back(temp->val);
-        temp=temp->next;
-    };
+    // vector<int>ans;
+    // ListNode* temp = head;
+    // while(temp!=NULL){
+    //     ans.push_back(temp->val);
+    //     temp=temp->next;
+    // };
 
-    int i = ans.size()-1;
-    temp=head;
-    while(temp){
-        temp->val=ans[i];
-        i--;
-        temp=temp->next;
-    }
+    // int i = ans.size()-1;
+    // temp=head;
+    // while(temp){
+    //     temp->val=ans[i];
+    //     i--;
+    //     temp=temp->next;
+    // }
 
-    return head;
+    // return head;
+    // }
+
+    ListNode* curr=head, *prev = NULL, *fut = NULL;
+    while(curr){
+        fut = curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=fut;
     }
+    head=prev;
+    
+     return head;
+}
 };
