@@ -16,10 +16,8 @@ class Solution {
         
         while (current != null && current.next != null) {
             if (current.val == current.next.val) {
-                // Skip the duplicate
                 current.next = current.next.next;
             } else {
-                // Move to the next distinct element
                 current = current.next;
             }
         }
