@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RaviTwari03/DSA/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RaviTwari03/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RaviTwari03/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RaviTwari03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RaviTwari03/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RaviTwari03/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RaviTwari03/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
