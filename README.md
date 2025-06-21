@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2887-sort-vowels-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RaviTwari03/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Interactive
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviTwari03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Bit Manipulation
 |  |
 | ------- |
