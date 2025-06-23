@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RaviTwari03/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaviTwari03/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/RaviTwari03/DSA/tree/master/0189-rotate-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RaviTwari03/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/RaviTwari03/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RaviTwari03/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RaviTwari03/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
