@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RaviTwari03/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RaviTwari03/DSA/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/RaviTwari03/DSA/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviTwari03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RaviTwari03/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0290-word-pattern](https://github.com/RaviTwari03/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
