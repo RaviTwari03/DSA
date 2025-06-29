@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RaviTwari03/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviTwari03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RaviTwari03/DSA/tree/master/0136-single-number) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviTwari03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/RaviTwari03/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
@@ -307,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RaviTwari03/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RaviTwari03/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RaviTwari03/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RaviTwari03/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 ## Memoization
 |  |
