@@ -1,3 +1,4 @@
+
 class MyStack {
 private:
     queue<int> q1, q2;
