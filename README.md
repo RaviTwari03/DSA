@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RaviTwari03/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RaviTwari03/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RaviTwari03/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/RaviTwari03/DSA/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/RaviTwari03/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaviTwari03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaviTwari03/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RaviTwari03/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RaviTwari03/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
