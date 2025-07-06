@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RaviTwari03/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1646-kth-missing-positive-number](https://github.com/RaviTwari03/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/RaviTwari03/DSA/tree/master/1720-crawler-log-folder) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviTwari03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RaviTwari03/DSA/tree/master/2195-time-needed-to-buy-tickets) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/RaviTwari03/DSA/tree/master/1500-count-largest-group) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RaviTwari03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RaviTwari03/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/RaviTwari03/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RaviTwari03/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
