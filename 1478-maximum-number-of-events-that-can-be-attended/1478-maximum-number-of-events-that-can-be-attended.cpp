@@ -1,31 +1,39 @@
 class Solution {
 public:
     int maxEvents(vector<vector<int>>& events) {
-        sort(events.begin(), events.end()); // sort by startDay
-        priority_queue<int, vector<int>, greater<int>> pq;
-        int i = 0, n = events.size(), res = 0;
-        int day = 1;
+        int n = events.size();
 
-        while (i < n || !pq.empty()) {
-            // Add events starting today
-            while (i < n && events[i][0] == day) {
-                pq.push(events[i][1]); // add endDay
+        sort(begin(events), end(events));
+
+        priority_queue<int, vector<int>, greater<int>> pq; //min-heap
+        int day = events[0][0]; //5
+        int i   = 0;
+        int count = 0; //result number of events attended
+
+        while(!pq.empty() || i < n) {
+            
+            if(pq.empty()) {
+                day = events[i][0];
+            }
+
+            while(i < n && events[i][0] == day) {
+                pq.push(events[i][1]);
                 i++;
             }
 
-            // Remove expired events
-            while (!pq.empty() && pq.top() < day) {
-                pq.pop();
-            }
-
-            // Attend event that ends earliest
-            if (!pq.empty()) {
-                pq.pop();
-                res++;
+            if(!pq.empty()) {
+                pq.pop(); //1 event attended on this day
+                count++; //counting the result
             }
 
             day++;
+
+            //skip those events whose endDay < day
+            while(!pq.empty() && pq.top() < day) {
+                pq.pop();
+            }
         }
-        return res;
+
+        return count;
     }
 };
