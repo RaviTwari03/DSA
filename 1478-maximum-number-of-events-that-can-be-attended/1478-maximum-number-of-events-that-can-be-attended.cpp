@@ -5,10 +5,10 @@ public:
 
         sort(begin(events), end(events));
 
-        priority_queue<int, vector<int>, greater<int>> pq; //min-heap
-        int day = events[0][0]; //5
+        priority_queue<int, vector<int>, greater<int>> pq; 
+        int day = events[0][0];
         int i   = 0;
-        int count = 0; //result number of events attended
+        int count = 0; 
 
         while(!pq.empty() || i < n) {
             
@@ -22,13 +22,12 @@ public:
             }
 
             if(!pq.empty()) {
-                pq.pop(); //1 event attended on this day
-                count++; //counting the result
+                pq.pop();
+                count++; 
             }
 
             day++;
 
-            //skip those events whose endDay < day
             while(!pq.empty() && pq.top() < day) {
                 pq.pop();
             }
