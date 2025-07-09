@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/RaviTwari03/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/RaviTwari03/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/RaviTwari03/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/RaviTwari03/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/RaviTwari03/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
