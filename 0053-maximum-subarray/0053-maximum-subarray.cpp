@@ -1,21 +1,14 @@
 class Solution {
 public:
-    long long maxSubArray(vector<int>& nums) {
-        long long maxi = LLONG_MIN,prefix=0;
-        int n=nums.size();
+    int maxSubArray(vector<int>& nums) {
+        int maxSoFar = nums[0];
+        int maxEndingHere = nums[0];
         
-
-        for(int i=0;i<n;i++){
-            prefix+=nums[i];
-            maxi=max(maxi,prefix);
-            if(prefix<0){
-                prefix=0;
-            }
+        for (int i = 1; i < nums.size(); ++i) {
+            maxEndingHere = max(nums[i], maxEndingHere + nums[i]);
+            maxSoFar = max(maxSoFar, maxEndingHere);
         }
-        return maxi;
+
+        return maxSoFar;
     }
 };
-
-
-// int maxSubArray(vector<int>& nums) {
-  // int maxi = INT_MIN,prefix=0;    time complexity increases
