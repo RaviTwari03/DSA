@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RaviTwari03/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RaviTwari03/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Monotonic Stack
 |  |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RaviTwari03/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RaviTwari03/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
