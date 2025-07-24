@@ -607,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RaviTwari03/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/RaviTwari03/DSA/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
