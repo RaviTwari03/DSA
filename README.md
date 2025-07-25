@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/RaviTwari03/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RaviTwari03/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/RaviTwari03/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RaviTwari03/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Interactive
 |  |
 | ------- |
