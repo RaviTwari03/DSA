@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RaviTwari03/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RaviTwari03/DSA/tree/master/3618-find-the-original-typed-string-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Linked List
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Quickselect
 |  |
 | ------- |
@@ -614,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/RaviTwari03/DSA/tree/master/1916-find-center-of-star-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
