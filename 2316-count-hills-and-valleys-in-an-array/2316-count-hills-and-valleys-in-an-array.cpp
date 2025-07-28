@@ -1,24 +1,22 @@
 class Solution {
 public:
     int countHillValley(vector<int>& nums) {
-        int count = 0;
         int n = nums.size();
 
-        // Remove consecutive duplicates
-        vector<int> clean;
-        clean.push_back(nums[0]);
-        for (int i = 1; i < n; ++i) {
-            if (nums[i] != nums[i - 1]) {
-                clean.push_back(nums[i]);
-            }
-        }
+        int i = 0; //points to non-equal neighbour in the left hand side
+        int j = 1; //points to non-equal neighbour in the right hand side by [j+1]
 
-        // Count hills and valleys
-        for (int i = 1; i < clean.size() - 1; ++i) {
-            if ((clean[i] > clean[i - 1] && clean[i] > clean[i + 1]) ||
-                (clean[i] < clean[i - 1] && clean[i] < clean[i + 1])) {
+        int count = 0;
+        while(j+1 < n) {
+            if((nums[i] < nums[j] && nums[j] > nums[j+1])
+                ||
+                (nums[i] > nums[j] && nums[j] < nums[j+1])
+            ) {
                 count++;
+                i = j;
             }
+
+            j++;
         }
 
         return count;
