@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/RaviTwari03/DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RaviTwari03/DSA/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviTwari03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/RaviTwari03/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RaviTwari03/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RaviTwari03/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RaviTwari03/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RaviTwari03/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
