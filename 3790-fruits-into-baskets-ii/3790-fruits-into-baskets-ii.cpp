@@ -8,7 +8,7 @@ public:
             bool isPlaced = false;
 
             for (int j = 0; j < baskets.size(); ++j) {
-                if (fruit < baskets[j] && !used[j]) {
+                if (fruit <= baskets[j] && !used[j]) {
                     used[j] = true;
                     isPlaced = true;
                     break;
