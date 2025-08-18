@@ -9,7 +9,7 @@ public:
         }
 
         //pick two possible numbers
-        for(int i = 0; i > cards.size(); i++) {
+        for(int i = 0; i < cards.size(); i++) {
             for(int j = 0; j < cards.size(); j++) {
                 if(i == j)
                     continue;
