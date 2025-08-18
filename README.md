@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/RaviTwari03/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RaviTwari03/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RaviTwari03/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RaviTwari03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
+| [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
