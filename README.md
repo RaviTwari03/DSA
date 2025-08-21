@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviTwari03/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/RaviTwari03/DSA/tree/master/1500-count-largest-group) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RaviTwari03/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RaviTwari03/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaviTwari03/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RaviTwari03/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RaviTwari03/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
