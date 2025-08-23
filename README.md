@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3429-special-array-i](https://github.com/RaviTwari03/DSA/tree/master/3429-special-array-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RaviTwari03/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RaviTwari03/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RaviTwari03/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RaviTwari03/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RaviTwari03/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RaviTwari03/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RaviTwari03/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RaviTwari03/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Quickselect
