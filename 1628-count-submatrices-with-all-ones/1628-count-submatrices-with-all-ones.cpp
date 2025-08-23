@@ -14,10 +14,10 @@ public:
 
             subCount += cons;
         }
-
         return subCount;
     }
 
+    
     int numSubmat(vector<vector<int>>& mat) {
         int m = mat.size();
         int n = mat[0].size();
@@ -35,7 +35,6 @@ public:
             result += OnedArrayCount(vec);
             }
         }
-
         return result;
     }
 };
