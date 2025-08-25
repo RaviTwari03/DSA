@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RaviTwari03/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/RaviTwari03/DSA/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
+| [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RaviTwari03/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
