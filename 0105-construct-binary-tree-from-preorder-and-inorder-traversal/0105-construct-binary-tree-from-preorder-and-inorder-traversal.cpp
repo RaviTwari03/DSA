@@ -11,32 +11,36 @@
  */
 class Solution {
 public:
-    int preIndex = 0;
-    unordered_map<int, int> inorderIndex; // To speed up index lookup
 
-    TreeNode* buildTreeHelper(vector<int>& preorder, int inStart, int inEnd) {
-        if (inStart > inEnd) return nullptr;
+    TreeNode* solve(vector<int>& preorder, vector<int>& inorder,int start, int end, int & idx){
+        if(start>end){
+            return NULL;
+        }
 
-        int rootVal = preorder[preIndex++];
-        TreeNode* root = new TreeNode(rootVal);
+        int rootVal = preorder[idx];
+        int i = start;
 
-        // Leaf node condition
-        if (inStart == inEnd) return root;
+        for(i=start; i<=end;i++){
+            if(inorder[i]==rootVal){
+                break;
+            }
+        }
+        idx++;
 
-        int inIndex = inorderIndex[rootVal];
+        TreeNode * root = new TreeNode(rootVal);
 
-        root->left = buildTreeHelper(preorder, inStart, inIndex - 1);
-        root->right = buildTreeHelper(preorder, inIndex + 1, inEnd);
+        root->left = solve(preorder,inorder,start, i-1,idx);
+        root->right = solve(preorder,inorder,i+1, end ,idx);
 
         return root;
     }
 
+
+
+
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        preIndex = 0;
-        // Fill value-to-index map for inorder
-        for (int i = 0; i < inorder.size(); ++i) {
-            inorderIndex[inorder[i]] = i;
-        }
-        return buildTreeHelper(preorder, 0, inorder.size() - 1);
+        int n = preorder.size();
+        int idx = 0;
+        return solve(preorder,inorder,0,n-1,idx);
     }
 };
