@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviTwari03/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviTwari03/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/RaviTwari03/DSA/tree/master/1500-count-largest-group) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RaviTwari03/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/RaviTwari03/DSA/tree/master/1127-last-stone-weight) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviTwari03/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviTwari03/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
