@@ -15,12 +15,23 @@ public:
         if(root->val == p->val || root->val == q->val)
             return root;
 
+
+        // left n find out krna and right also
         TreeNode* l = lowestCommonAncestor(root->left,p,q);
         TreeNode* r = lowestCommonAncestor(root->right,p,q);
 
-        if(l&&r){
+        // if(l&&r){
+        //     return root;
+        // }
+        // return l?l:r;
+
+        if(l!=NULL && r!=NULL){
             return root;
         }
-        return l?l:r;
+        if(r!=NULL){
+            return r;
+        }
+
+        return l;
     }
 };
