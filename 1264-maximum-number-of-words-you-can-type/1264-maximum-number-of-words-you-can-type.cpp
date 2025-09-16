@@ -1,28 +1,32 @@
 class Solution {
 public:
     int canBeTypedWords(string text, string brokenLetters) {
-        int n = text.length();
-
         bool mp[26];
-        for(char &ch : brokenLetters) {
+
+
+        for(char &ch : brokenLetters){
             mp[ch-'a'] = true;
         }
 
-        int result        = 0;
-        bool foundBroken  = false;
-        for(char &ch : text) {
-            if(ch == ' ') {
-                if(!foundBroken) {
+        int result = 0;
+        bool canType = true;
+
+        for(char & ch: text){
+            if(ch == ' '){
+                if(canType){
                     result++;
                 }
-                foundBroken = false;
-            } else if (mp[ch - 'a']) {
-                foundBroken = true; //found
+                canType = true;
+                }else if (mp[ch-'a']==true){
+                    canType=false;
+                }
             }
-        }
-        if(foundBroken == 0)
-            result++;
 
+            if(canType){
+                result++;
+            }
+        
         return result;
+
     }
 };
