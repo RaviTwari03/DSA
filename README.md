@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/RaviTwari03/DSA/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3678-design-task-manager](https://github.com/RaviTwari03/DSA/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/RaviTwari03/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RaviTwari03/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RaviTwari03/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/RaviTwari03/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/RaviTwari03/DSA/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/RaviTwari03/DSA/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/RaviTwari03/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/RaviTwari03/DSA/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/RaviTwari03/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/RaviTwari03/DSA/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/RaviTwari03/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RaviTwari03/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
