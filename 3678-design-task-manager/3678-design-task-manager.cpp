@@ -1,19 +1,17 @@
 class TaskManager {
     typedef pair<int, int> Task; // (priority, taskId)
 
-    priority_queue<Task> maxHeap;                  // tasks sorted by priority, then taskId
-    unordered_map<int, int> taskPriorityMap;       // taskId -> current priority
-    unordered_map<int, int> taskOwnerMap;          // taskId -> userId
+    priority_queue<Task> maxHeap;               
+    unordered_map<int, int> taskPriorityMap;       
+    unordered_map<int, int> taskOwnerMap;      
 
 public:
-    // Initialize with a list of [userId, taskId, priority]
     TaskManager(vector<vector<int>>& initialTasks) {
         for (const auto& task : initialTasks) {
             add(task[0], task[1], task[2]);
         }
     }
 
-    // Add new task
     void add(int userId, int taskId, int priority) {
         maxHeap.push({priority, taskId});
         taskPriorityMap[taskId] = priority;
