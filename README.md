@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RaviTwari03/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/RaviTwari03/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/RaviTwari03/DSA/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RaviTwari03/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RaviTwari03/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RaviTwari03/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RaviTwari03/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/RaviTwari03/DSA/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/RaviTwari03/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RaviTwari03/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
