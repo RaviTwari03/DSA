@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/RaviTwari03/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RaviTwari03/DSA/tree/master/0907-koko-eating-bananas) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/RaviTwari03/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/RaviTwari03/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RaviTwari03/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaviTwari03/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
