@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/RaviTwari03/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/RaviTwari03/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/RaviTwari03/DSA/tree/master/1048-clumsy-factorial) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RaviTwari03/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/RaviTwari03/DSA/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/RaviTwari03/DSA/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/RaviTwari03/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RaviTwari03/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/RaviTwari03/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/RaviTwari03/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaviTwari03/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/RaviTwari03/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RaviTwari03/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
