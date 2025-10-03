@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RaviTwari03/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RaviTwari03/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RaviTwari03/DSA/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RaviTwari03/DSA/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RaviTwari03/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/RaviTwari03/DSA/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RaviTwari03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RaviTwari03/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/RaviTwari03/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RaviTwari03/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
