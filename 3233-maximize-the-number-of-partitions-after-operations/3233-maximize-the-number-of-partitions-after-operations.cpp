@@ -34,7 +34,7 @@ public:
                 if (newUniqueCharCount > K) {
                     result = max(result, 1 + solve(i + 1, 1 << newCharIndex, false));
                 } else {
-                    result = max(result, solve(i + 1, newSet, false));
+                    result = max(result, solve(i , newSet, false));
                 }
             }
         }
