@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/RaviTwari03/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaviTwari03/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/RaviTwari03/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/RaviTwari03/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RaviTwari03/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/RaviTwari03/DSA/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/RaviTwari03/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RaviTwari03/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0234-palindrome-linked-list) |
