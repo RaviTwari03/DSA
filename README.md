@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/RaviTwari03/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RaviTwari03/DSA/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RaviTwari03/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/RaviTwari03/DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/RaviTwari03/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RaviTwari03/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RaviTwari03/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaviTwari03/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/RaviTwari03/DSA/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RaviTwari03/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RaviTwari03/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -866,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
 |  |
 | ------- |
@@ -887,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/RaviTwari03/DSA/tree/master/1916-find-center-of-star-graph) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Segment Tree
 |  |
 | ------- |
@@ -909,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/RaviTwari03/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/RaviTwari03/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/RaviTwari03/DSA/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -926,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
 | ------- |
