@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RaviTwari03/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RaviTwari03/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/RaviTwari03/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/RaviTwari03/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RaviTwari03/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/RaviTwari03/DSA/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RaviTwari03/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviTwari03/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/RaviTwari03/DSA/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RaviTwari03/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaviTwari03/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RaviTwari03/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RaviTwari03/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/RaviTwari03/DSA/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RaviTwari03/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/RaviTwari03/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RaviTwari03/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/RaviTwari03/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -772,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RaviTwari03/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RaviTwari03/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/RaviTwari03/DSA/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
