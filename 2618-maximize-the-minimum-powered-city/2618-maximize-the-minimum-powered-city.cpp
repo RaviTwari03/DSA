@@ -4,7 +4,7 @@ public:
     bool check(long long mid, vector<long long>& diff, int r, int k, int n) {
         vector<long long> tempDiff = diff;
 
-        long long cumSum = 0; //it will give power of a city at any point of time
+        long long cumSum = 0; 
 
         for(int i = 0; i < n; i++) {
             cumSum += tempDiff[i];
@@ -16,11 +16,9 @@ public:
                 }
 
                 k -= need;
-                cumSum += need; //gredily I had chosen to add station on the city which can cover more range
-
-                //i......X.....i+2*r
+                cumSum += need; 
                 if(i + 2*r + 1 < n)
-                    tempDiff[i+2*r+1] -= need; //applying difference array technique
+                    tempDiff[i+2*r+1] -= need; 
             }
         }
 
@@ -45,7 +43,6 @@ public:
 
         long long result = 0;
 
-        //T.C : n * log(sum)
         while(left <= right) {
             long long mid = left + (right - left)/2;
 
