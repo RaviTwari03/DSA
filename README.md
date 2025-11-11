@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RaviTwari03/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RaviTwari03/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/RaviTwari03/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0474-ones-and-zeroes) |
 | [0686-repeated-string-match](https://github.com/RaviTwari03/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/RaviTwari03/DSA/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/RaviTwari03/DSA/tree/master/0874-backspace-string-compare) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RaviTwari03/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RaviTwari03/DSA/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/RaviTwari03/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/RaviTwari03/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
