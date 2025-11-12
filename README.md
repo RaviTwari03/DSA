@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/RaviTwari03/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/RaviTwari03/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/RaviTwari03/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RaviTwari03/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RaviTwari03/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/RaviTwari03/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RaviTwari03/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/RaviTwari03/DSA/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/RaviTwari03/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RaviTwari03/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/RaviTwari03/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RaviTwari03/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RaviTwari03/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RaviTwari03/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Union Find
 |  |
 | ------- |
