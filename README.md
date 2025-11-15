@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/RaviTwari03/DSA/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RaviTwari03/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RaviTwari03/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/RaviTwari03/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RaviTwari03/DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RaviTwari03/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RaviTwari03/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaviTwari03/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RaviTwari03/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RaviTwari03/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/RaviTwari03/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RaviTwari03/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Quickselect
