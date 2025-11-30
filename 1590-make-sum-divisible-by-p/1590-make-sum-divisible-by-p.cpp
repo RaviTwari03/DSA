@@ -4,7 +4,6 @@ public:
         int n = nums.size();
         int SUM = 0;
 
-        //(a+b)%p = (a%p + b%p) % p
         for(int &num : nums) {
             SUM = (SUM + num) % p;
         }
@@ -15,7 +14,7 @@ public:
             return 0;
         }
 
-        unordered_map<int, int> mp; //prev sum%p ko store karega
+        unordered_map<int, int> mp; 
 
         int curr = 0;
         mp[0] = -1;
