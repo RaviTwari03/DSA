@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RaviTwari03/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
+| [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RaviTwari03/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RaviTwari03/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RaviTwari03/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RaviTwari03/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RaviTwari03/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RaviTwari03/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RaviTwari03/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
+| [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Enumeration
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/RaviTwari03/DSA/tree/master/1916-find-center-of-star-graph) |
+| [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Segment Tree
 |  |
@@ -1008,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Combinatorics
 |  |
