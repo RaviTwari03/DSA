@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/RaviTwari03/DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/RaviTwari03/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/RaviTwari03/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/RaviTwari03/DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/RaviTwari03/DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/RaviTwari03/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/RaviTwari03/DSA/tree/master/1006-vowel-spellchecker) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/RaviTwari03/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
