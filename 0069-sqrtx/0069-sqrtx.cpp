@@ -1,27 +1,22 @@
 class Solution {
 public:
     int mySqrt(int x) {
-     if (x < 2) return x;  // Handle 0 and 1 directly
+        if (x == 0 || x == 1)
+            return x;
 
-        
-        int low=0;
-        int high=x/2+1;
-        int res=0;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            long square=(long)mid*mid;
-            if(square==x){// in case of perfect square
-                res=mid;
-                return res;
-            }else if(square<x){
-                res=mid;
-                low=mid+1;
-            }else{
-                
-                high=mid-1;
+        int start = 1, end = x;
+        int ans = 0;
+
+        while (start <= end) {
+            long long mid = start + (end - start) / 2;
+
+            if (mid <= x / mid) {
+                ans = mid;        
+                start = mid + 1;  
+            } else {
+                end = mid - 1;    
             }
         }
-        return res;
-    }   
-    
+        return ans;
+    }
 };
