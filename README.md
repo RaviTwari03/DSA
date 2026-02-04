@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RaviTwari03/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RaviTwari03/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/RaviTwari03/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/RaviTwari03/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-design-circular-queue](https://github.com/RaviTwari03/DSA/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/RaviTwari03/DSA/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RaviTwari03/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
