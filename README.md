@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviTwari03/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/RaviTwari03/DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/RaviTwari03/DSA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RaviTwari03/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/RaviTwari03/DSA/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RaviTwari03/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RaviTwari03/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RaviTwari03/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
