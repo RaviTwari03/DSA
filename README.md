@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RaviTwari03/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/RaviTwari03/DSA/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/RaviTwari03/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/RaviTwari03/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RaviTwari03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/RaviTwari03/DSA/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RaviTwari03/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/RaviTwari03/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RaviTwari03/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/RaviTwari03/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RaviTwari03/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RaviTwari03/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
 | [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
+| [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
