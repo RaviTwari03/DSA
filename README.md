@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/RaviTwari03/DSA/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/RaviTwari03/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/RaviTwari03/DSA/tree/master/1642-water-bottles) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RaviTwari03/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RaviTwari03/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RaviTwari03/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RaviTwari03/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/RaviTwari03/DSA/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RaviTwari03/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RaviTwari03/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RaviTwari03/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RaviTwari03/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/RaviTwari03/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/RaviTwari03/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RaviTwari03/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
