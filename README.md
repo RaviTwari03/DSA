@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/RaviTwari03/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/RaviTwari03/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RaviTwari03/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/RaviTwari03/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/RaviTwari03/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RaviTwari03/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RaviTwari03/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RaviTwari03/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RaviTwari03/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/RaviTwari03/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/RaviTwari03/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/RaviTwari03/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RaviTwari03/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/RaviTwari03/DSA/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/RaviTwari03/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RaviTwari03/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RaviTwari03/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/RaviTwari03/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/RaviTwari03/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RaviTwari03/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/RaviTwari03/DSA/tree/master/3225-maximum-score-from-grid-operations) |
