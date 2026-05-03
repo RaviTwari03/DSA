@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/RaviTwari03/DSA/tree/master/0686-repeated-string-match) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/RaviTwari03/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/RaviTwari03/DSA/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/RaviTwari03/DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/RaviTwari03/DSA/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/RaviTwari03/DSA/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/RaviTwari03/DSA/tree/master/0878-shifting-letters) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/RaviTwari03/DSA/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/RaviTwari03/DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/RaviTwari03/DSA/tree/master/0812-rotate-string) |
 ## Counting
 |  |
