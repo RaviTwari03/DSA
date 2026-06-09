@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/RaviTwari03/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RaviTwari03/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/RaviTwari03/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RaviTwari03/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/RaviTwari03/DSA/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/RaviTwari03/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/RaviTwari03/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/RaviTwari03/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/RaviTwari03/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3689-maximum-total-subarray-value-i](https://github.com/RaviTwari03/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RaviTwari03/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
