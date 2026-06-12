@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/RaviTwari03/DSA/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/RaviTwari03/DSA/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RaviTwari03/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RaviTwari03/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/RaviTwari03/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RaviTwari03/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RaviTwari03/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/RaviTwari03/DSA/tree/master/3531-count-covered-buildings) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RaviTwari03/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaviTwari03/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/RaviTwari03/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RaviTwari03/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/RaviTwari03/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RaviTwari03/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RaviTwari03/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RaviTwari03/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RaviTwari03/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/RaviTwari03/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RaviTwari03/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/RaviTwari03/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RaviTwari03/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RaviTwari03/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
@@ -1107,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/RaviTwari03/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RaviTwari03/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/RaviTwari03/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/RaviTwari03/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
