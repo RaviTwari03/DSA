@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RaviTwari03/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/RaviTwari03/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RaviTwari03/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/RaviTwari03/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/RaviTwari03/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/RaviTwari03/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/RaviTwari03/DSA/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/RaviTwari03/DSA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/RaviTwari03/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/RaviTwari03/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RaviTwari03/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/RaviTwari03/DSA/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/RaviTwari03/DSA/tree/master/0948-sort-an-array) |
 ## Backtracking
 |  |
