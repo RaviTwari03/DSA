@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RaviTwari03/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2187-minimum-time-to-complete-trips](https://github.com/RaviTwari03/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/RaviTwari03/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/RaviTwari03/DSA/tree/master/2540-minimum-common-value) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviTwari03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RaviTwari03/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/RaviTwari03/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RaviTwari03/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RaviTwari03/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
