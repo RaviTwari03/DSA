@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/RaviTwari03/DSA/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/RaviTwari03/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/RaviTwari03/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviTwari03/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/RaviTwari03/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/RaviTwari03/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/RaviTwari03/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RaviTwari03/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RaviTwari03/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviTwari03/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/RaviTwari03/DSA/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
+| [1301-number-of-paths-with-max-score](https://github.com/RaviTwari03/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RaviTwari03/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
