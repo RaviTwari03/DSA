@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/RaviTwari03/DSA/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/RaviTwari03/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/RaviTwari03/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaviTwari03/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1319-unique-number-of-occurrences](https://github.com/RaviTwari03/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1200-minimum-absolute-difference](https://github.com/RaviTwari03/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/RaviTwari03/DSA/tree/master/1288-remove-covered-intervals) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/RaviTwari03/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
