@@ -1224,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/RaviTwari03/DSA/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/RaviTwari03/DSA/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/RaviTwari03/DSA/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RaviTwari03/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/RaviTwari03/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RaviTwari03/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
