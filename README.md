@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/RaviTwari03/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/RaviTwari03/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/RaviTwari03/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RaviTwari03/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RaviTwari03/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RaviTwari03/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RaviTwari03/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RaviTwari03/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RaviTwari03/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/RaviTwari03/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RaviTwari03/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union Find
 |  |
 | ------- |
