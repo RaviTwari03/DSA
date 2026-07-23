@@ -10,6 +10,8 @@ void buildSegmentTree(int i, int l, int r, int segmentTree[], int arr[]) {
     segmentTree[i] = max(segmentTree[2 * i + 1], segmentTree[2 * i + 2]);
 }
 
+
+
 int* constructST(int arr[], int n) {
     int* segmentTree = new int[4 * n];
     buildSegmentTree(0, 0, n - 1, segmentTree, arr);
