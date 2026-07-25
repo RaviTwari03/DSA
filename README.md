@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RaviTwari03/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviTwari03/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/RaviTwari03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/RaviTwari03/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/RaviTwari03/DSA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/RaviTwari03/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/RaviTwari03/DSA/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/RaviTwari03/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RaviTwari03/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RaviTwari03/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/RaviTwari03/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
