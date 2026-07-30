@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RaviTwari03/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RaviTwari03/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviTwari03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RaviTwari03/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/RaviTwari03/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RaviTwari03/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RaviTwari03/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RaviTwari03/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RaviTwari03/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RaviTwari03/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RaviTwari03/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
