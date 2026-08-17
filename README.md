@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/RaviTwari03/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/RaviTwari03/DSA/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/RaviTwari03/DSA/tree/master/1500-count-largest-group) |
+| [1563-stone-game-v](https://github.com/RaviTwari03/DSA/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/RaviTwari03/DSA/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/RaviTwari03/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/RaviTwari03/DSA/tree/master/1642-water-bottles) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-kth-missing-positive-number](https://github.com/RaviTwari03/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/RaviTwari03/DSA/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviTwari03/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/RaviTwari03/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/RaviTwari03/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/RaviTwari03/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/RaviTwari03/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1563-stone-game-v](https://github.com/RaviTwari03/DSA/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RaviTwari03/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RaviTwari03/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1352,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RaviTwari03/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RaviTwari03/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/RaviTwari03/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/RaviTwari03/DSA/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
