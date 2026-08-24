@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/RaviTwari03/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/RaviTwari03/DSA/tree/master/1642-water-bottles) |
 | [1840-maximum-building-height](https://github.com/RaviTwari03/DSA/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RaviTwari03/DSA/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RaviTwari03/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/RaviTwari03/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RaviTwari03/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RaviTwari03/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1914-cyclically-rotating-a-grid](https://github.com/RaviTwari03/DSA/tree/master/1914-cyclically-rotating-a-grid) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RaviTwari03/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/RaviTwari03/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/RaviTwari03/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/RaviTwari03/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/RaviTwari03/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/RaviTwari03/DSA/tree/master/0878-shifting-letters) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/RaviTwari03/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1590-make-sum-divisible-by-p](https://github.com/RaviTwari03/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RaviTwari03/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/RaviTwari03/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -1358,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RaviTwari03/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/RaviTwari03/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RaviTwari03/DSA/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
@@ -1438,11 +1443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RaviTwari03/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/RaviTwari03/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RaviTwari03/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
