@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RaviTwari03/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RaviTwari03/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviTwari03/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/RaviTwari03/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/RaviTwari03/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/RaviTwari03/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RaviTwari03/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/RaviTwari03/DSA/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RaviTwari03/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RaviTwari03/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RaviTwari03/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/RaviTwari03/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RaviTwari03/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/RaviTwari03/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Quickselect
