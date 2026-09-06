@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RaviTwari03/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/RaviTwari03/DSA/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/RaviTwari03/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/RaviTwari03/DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/RaviTwari03/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RaviTwari03/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RaviTwari03/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/RaviTwari03/DSA/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/RaviTwari03/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/RaviTwari03/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RaviTwari03/DSA/tree/master/0120-triangle) |
 | [0474-ones-and-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0474-ones-and-zeroes) |
