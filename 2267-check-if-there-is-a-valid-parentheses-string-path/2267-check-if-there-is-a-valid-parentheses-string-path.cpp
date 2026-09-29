@@ -4,11 +4,9 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        // Odd length path can never have balanced parentheses
         if ((m + n - 1) % 2 == 1)
             return false;
 
-        // Maximum possible balance
         int maxBal = m + n;
 
         vector<vector<vector<bool>>> dp(
@@ -16,7 +14,6 @@ public:
             vector<vector<bool>>(n, vector<bool>(maxBal + 1, false))
         );
 
-        // Start must be '('
         if (grid[0][0] != '(')
             return false;
 
@@ -38,11 +35,10 @@ public:
 
                     bool possible = false;
 
-                    // From top
                     if (i > 0 && dp[i - 1][j][prev])
                         possible = true;
 
-                    // From left
+
                     if (j > 0 && dp[i][j - 1][prev])
                         possible = true;
 
