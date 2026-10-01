@@ -4,8 +4,7 @@ public:
         long long total = 0;
 
         for (long long t : workerTimes) {
-            // Find maximum x such that:
-            // t * x * (x + 1) / 2 <= T
+            
 
             long long lo = 0, hi = mountainHeight;
 
@@ -38,7 +37,6 @@ public:
             workerTimes.end()
         );
 
-        // Fastest worker alone removes entire mountain
         long long high =
             mn * 1LL * mountainHeight * (mountainHeight + 1) / 2;
 
