@@ -1,36 +1,25 @@
 class Solution {
 public:
-    void parentheses(int n,int left, int right, vector<string>&ans, string & temp){
+    vector<string> ans;
 
-
-        if(right+left==2*n){
-            ans.push_back(temp);
+    void solve(string s, int open, int close, int n) {
+        if (s.size() == 2 * n) {
+            ans.push_back(s);
             return;
         }
 
-        if(left<n){
-            temp.push_back('(');
-            parentheses(n,left+1,right,ans,temp);
-            temp.pop_back();
+        if (open < n) {
+            solve(s + "(", open + 1, close, n);
         }
-        if(right<left){
-            temp.push_back(')');
-            parentheses(n,left,right+1,ans,temp);
-            temp.pop_back();
+
+        if (close < open) {
+            solve(s + ")", open, close + 1, n);
         }
-        
     }
 
-
-
-
-
-
-
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
-        string temp;
-        parentheses(n,0,0,ans,temp);
+        ans.clear();
+        solve("", 0, 0, n);
         return ans;
     }
 };
