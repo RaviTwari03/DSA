@@ -1,22 +1,28 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int maxLen = 0;
         stack<int> st;
-        st.push(-1);  // base for the first valid substring
+        st.push(-1);
+
+        int ans = 0;
 
         for (int i = 0; i < s.size(); i++) {
+
             if (s[i] == '(') {
                 st.push(i);
-            } else {
+            } 
+            else {
                 st.pop();
+
                 if (st.empty()) {
-                    st.push(i);  // reset base
-                } else {
-                    maxLen = max(maxLen, i - st.top());
+                    st.push(i);
+                } 
+                else {
+                    ans = max(ans, i - st.top());
                 }
             }
         }
-        return maxLen;
+
+        return ans;
     }
 };
