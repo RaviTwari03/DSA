@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/RaviTwari03/DSA/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/RaviTwari03/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0290-word-pattern](https://github.com/RaviTwari03/DSA/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/RaviTwari03/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/RaviTwari03/DSA/tree/master/0409-longest-palindrome) |
@@ -1208,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RaviTwari03/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RaviTwari03/DSA/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RaviTwari03/DSA/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/RaviTwari03/DSA/tree/master/0679-24-game) |
 | [1096-brace-expansion-ii](https://github.com/RaviTwari03/DSA/tree/master/1096-brace-expansion-ii) |
 | [1980-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/1980-find-unique-binary-string) |
@@ -1348,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RaviTwari03/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RaviTwari03/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/RaviTwari03/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/RaviTwari03/DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/RaviTwari03/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/RaviTwari03/DSA/tree/master/0433-minimum-genetic-mutation) |
