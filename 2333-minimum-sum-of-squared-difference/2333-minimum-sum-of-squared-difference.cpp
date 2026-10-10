@@ -19,7 +19,6 @@ public:
         if (total <= k)
             return 0;
 
-        // Binary search for optimal maximum difference
         int low = 0, high = mx;
 
         while (low < high) {
@@ -40,7 +39,6 @@ public:
 
         int limit = low;
 
-        // Reduce all differences greater than limit
         for (int &d : diff) {
             if (d > limit) {
                 k -= d - limit;
@@ -48,7 +46,6 @@ public:
             }
         }
 
-        // Use remaining operations on differences == limit
         for (int &d : diff) {
             if (k == 0)
                 break;
