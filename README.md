@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/RaviTwari03/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaviTwari03/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviTwari03/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RaviTwari03/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/RaviTwari03/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/RaviTwari03/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/RaviTwari03/DSA/tree/master/2689-rearranging-fruits) |
 | [2721-sum-of-distances](https://github.com/RaviTwari03/DSA/tree/master/2721-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviTwari03/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/RaviTwari03/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RaviTwari03/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RaviTwari03/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1424,6 +1426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/RaviTwari03/DSA/tree/master/1622-fancy-sequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviTwari03/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3454-separate-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RaviTwari03/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaviTwari03/DSA/tree/master/3525-find-x-value-of-array-ii) |
@@ -1573,4 +1576,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviTwari03/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
