@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/RaviTwari03/DSA/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RaviTwari03/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RaviTwari03/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaviTwari03/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/RaviTwari03/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RaviTwari03/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RaviTwari03/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/RaviTwari03/DSA/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RaviTwari03/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaviTwari03/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RaviTwari03/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/RaviTwari03/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/RaviTwari03/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/RaviTwari03/DSA/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/RaviTwari03/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaviTwari03/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/RaviTwari03/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/RaviTwari03/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/RaviTwari03/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
