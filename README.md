@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/RaviTwari03/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RaviTwari03/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3797-design-spreadsheet](https://github.com/RaviTwari03/DSA/tree/master/3797-design-spreadsheet) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RaviTwari03/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RaviTwari03/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
