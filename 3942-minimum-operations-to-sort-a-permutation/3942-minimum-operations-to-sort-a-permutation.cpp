@@ -17,13 +17,11 @@ public:
 
         int ans = INT_MAX;
 
-        // Increasing cyclic order
         if (check(1)) {
             ans = min(ans, zero);
             ans = min(ans, n - zero + 2);
         }
 
-        // Decreasing cyclic order
         if (check(-1)) {
             ans = min(ans, zero + 2);
             ans = min(ans, n - zero);
