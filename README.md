@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/RaviTwari03/DSA/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/RaviTwari03/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/RaviTwari03/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RaviTwari03/DSA/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/RaviTwari03/DSA/tree/master/1288-remove-covered-intervals) |
@@ -1149,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/RaviTwari03/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/RaviTwari03/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1094-matrix-cells-in-distance-order](https://github.com/RaviTwari03/DSA/tree/master/1094-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/RaviTwari03/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RaviTwari03/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RaviTwari03/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/RaviTwari03/DSA/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaviTwari03/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/RaviTwari03/DSA/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RaviTwari03/DSA/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/RaviTwari03/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/RaviTwari03/DSA/tree/master/1254-number-of-closed-islands) |
 | [1876-map-of-highest-peak](https://github.com/RaviTwari03/DSA/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -1551,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RaviTwari03/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaviTwari03/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RaviTwari03/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/RaviTwari03/DSA/tree/master/2573-find-the-string-with-lcp) |
