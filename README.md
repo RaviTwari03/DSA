@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RaviTwari03/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/RaviTwari03/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviTwari03/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/RaviTwari03/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/RaviTwari03/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaviTwari03/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/RaviTwari03/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/RaviTwari03/DSA/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviTwari03/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/RaviTwari03/DSA/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RaviTwari03/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RaviTwari03/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/RaviTwari03/DSA/tree/master/1970-sorting-the-sentence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/RaviTwari03/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/RaviTwari03/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/RaviTwari03/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2092-find-all-people-with-secret](https://github.com/RaviTwari03/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RaviTwari03/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/RaviTwari03/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
