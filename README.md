@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/RaviTwari03/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/RaviTwari03/DSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaviTwari03/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaviTwari03/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/RaviTwari03/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RaviTwari03/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RaviTwari03/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/RaviTwari03/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaviTwari03/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/RaviTwari03/DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaviTwari03/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/RaviTwari03/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/RaviTwari03/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/RaviTwari03/DSA/tree/master/0496-next-greater-element-i) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/RaviTwari03/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/RaviTwari03/DSA/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaviTwari03/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/RaviTwari03/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/RaviTwari03/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
