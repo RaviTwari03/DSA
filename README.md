@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RaviTwari03/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RaviTwari03/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaviTwari03/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/RaviTwari03/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/RaviTwari03/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/RaviTwari03/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RaviTwari03/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/RaviTwari03/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaviTwari03/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/RaviTwari03/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/RaviTwari03/DSA/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/RaviTwari03/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RaviTwari03/DSA/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/RaviTwari03/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/RaviTwari03/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaviTwari03/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/RaviTwari03/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/RaviTwari03/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/RaviTwari03/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/RaviTwari03/DSA/tree/master/1288-remove-covered-intervals) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/RaviTwari03/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaviTwari03/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RaviTwari03/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RaviTwari03/DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RaviTwari03/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
