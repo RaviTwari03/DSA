@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/RaviTwari03/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RaviTwari03/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RaviTwari03/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RaviTwari03/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/RaviTwari03/DSA/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/RaviTwari03/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RaviTwari03/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -934,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaviTwari03/DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RaviTwari03/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RaviTwari03/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RaviTwari03/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RaviTwari03/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Interactive
 |  |
