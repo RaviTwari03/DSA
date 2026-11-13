@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/RaviTwari03/DSA/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RaviTwari03/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/RaviTwari03/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3429-special-array-i](https://github.com/RaviTwari03/DSA/tree/master/3429-special-array-i) |
 | [3433-count-mentions-per-user](https://github.com/RaviTwari03/DSA/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/RaviTwari03/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2747-count-zero-request-servers](https://github.com/RaviTwari03/DSA/tree/master/2747-count-zero-request-servers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/RaviTwari03/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/RaviTwari03/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RaviTwari03/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/RaviTwari03/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/RaviTwari03/DSA/tree/master/2751-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/RaviTwari03/DSA/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RaviTwari03/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Simulation
 |  |
@@ -1107,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RaviTwari03/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RaviTwari03/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RaviTwari03/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/RaviTwari03/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
@@ -1330,12 +1334,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/RaviTwari03/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/RaviTwari03/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/RaviTwari03/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/RaviTwari03/DSA/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RaviTwari03/DSA/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RaviTwari03/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
 |  |
@@ -1509,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/RaviTwari03/DSA/tree/master/1622-fancy-sequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaviTwari03/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaviTwari03/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/RaviTwari03/DSA/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RaviTwari03/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/RaviTwari03/DSA/tree/master/3525-find-x-value-of-array-ii) |
