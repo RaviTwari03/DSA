@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RaviTwari03/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-water-bottles-ii](https://github.com/RaviTwari03/DSA/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RaviTwari03/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/RaviTwari03/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RaviTwari03/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3433-count-mentions-per-user](https://github.com/RaviTwari03/DSA/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/RaviTwari03/DSA/tree/master/3462-vowels-game-in-a-string) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/RaviTwari03/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/RaviTwari03/DSA/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/RaviTwari03/DSA/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/RaviTwari03/DSA/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/RaviTwari03/DSA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/RaviTwari03/DSA/tree/master/3433-count-mentions-per-user) |
 | [3498-reverse-degree-of-a-string](https://github.com/RaviTwari03/DSA/tree/master/3498-reverse-degree-of-a-string) |
